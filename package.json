@@ -1,0 +1,23 @@
+{
+  "name": "cicd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://daniel-souza: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@github.com/daniel-souza/ci-cd.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daniel-souza/ci-cd/issues"
+  },
+  "homepage": "https://github.com/daniel-souza/ci-cd#readme",
+  "dependencies": {
+    "jest": "^28.1.0"
+  }
+}
